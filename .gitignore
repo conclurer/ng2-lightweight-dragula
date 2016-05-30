@@ -1,0 +1,13 @@
+# Exclude external dependencies
+node_modules
+
+# Exclude any non-source files inside src
+src/*.js
+src/*.js.map
+src/*.d.ts
+
+# Exclude typings
+typings
+
+# Exclude .idea bullshit
+.idea
